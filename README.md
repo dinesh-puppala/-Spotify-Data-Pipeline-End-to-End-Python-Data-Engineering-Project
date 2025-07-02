@@ -3,7 +3,11 @@
 This project demonstrates a complete **end-to-end data pipeline** to extract music and audio data from the **Spotify Web API**, transform it, and load it into **Amazon S3**, where it can be queried using **AWS Athena**. The pipeline is built with Python, deployed using **AWS Lambda**, and triggered automatically on a schedule.
 
 ---
+## 🖼️ Architecture Diagram
 
+![Spotify Data Pipeline Architecture](https://raw.githubusercontent.com/dinesh-puppala/-Spotify-Data-Pipeline-End-to-End-Python-Data-Engineering-Project/main/Architecture.png)
+
+---
 
 ## 🗂️ Project Files
 
