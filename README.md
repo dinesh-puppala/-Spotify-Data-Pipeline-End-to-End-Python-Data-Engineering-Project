@@ -4,14 +4,15 @@ This project demonstrates a complete **end-to-end data pipeline** to extract mus
 
 ---
 
+
 ## 🗂️ Project Files
 
 | File                             | Description                                                        |
 |----------------------------------|--------------------------------------------------------------------|
-| `Spotify Data Pipeline Project.ipynb` | Jupyter Notebook for testing and demonstration of the pipeline logic |
-| `spotify_api_data_extract.py`   | Python script for extracting data from the Spotify API             |
-| `spotify_transformation_load_function.py` | Lambda-ready transformation and S3 upload script                  |
-| `spotipy_layer.zip`             | Zipped Python layer for Spotify API (Spotipy) dependency on Lambda |
+| [Spotify Data Pipeline Project.ipynb](./Spotify%20Data%20Pipeline%20Project.ipynb)| Jupyter Notebook for testing and demonstration of the pipeline logic |
+| [spotify_api_data_extract.py](./spotify_api_data_extract.py) | Python script for extracting data from the Spotify API             |
+| [spotify_transformation_load_function.py](./spotify_transformation_load_function.py) | Lambda-ready transformation and S3 upload script                  |
+| [spotipy_layer.zip](./spotipy_layer.zip)  | Zipped Python layer for Spotify API (Spotipy) dependency on Lambda |
 
 ---
 
